@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "722276006294",
+    "project_id": "pulsexfit-cb5d6",
+    "storage_bucket": "pulsexfit-cb5d6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:722276006294:android:cca7b582f3c309623d45b7",
+        "android_client_info": {
+          "package_name": "com.example.pulsexfit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "722276006294-bcch1fdf3afb3nolotlqp15u3e94vv9s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBs-a8AsCRGZlEHL2uvwQEGMiF5fVQuBh8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "722276006294-bcch1fdf3afb3nolotlqp15u3e94vv9s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
