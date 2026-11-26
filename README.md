@@ -41,4 +41,4 @@ lib/
 └── workout.dart       # entrenamiento, mapa, sensores, historial
 ```
 
-**Autor:** Ángel Fernando Jiménez Ángeles — UPFIM, Ingeniería en Tecnologías de la Información e Innovación Digital
+**Autora:** Jolette Camargo Avendaño — UPFIM, Ingeniería en Tecnologías de la Información e Innovación Digital
